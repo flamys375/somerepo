@@ -12,7 +12,7 @@ public enum RezolListCategory {
     TO_ME(5),
     ANSWER(6);sdfsd
 
-//1 - Личное / 2 - Подчинённых / 3 - Все / 4 - Управление / 5 - Мне44
+//1 - Личное / 2 - Подчинённых / 3 - Все / 4 - Управление / 5 - Мне44 55
 
     private final int code;
 
