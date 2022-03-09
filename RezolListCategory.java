@@ -10,7 +10,7 @@ public enum RezolListCategory {
     ALL(3),
     MANAGEMENT(4),
     TO_ME(5),
-    ANSWER(6);
+    ANSWER(6);sdfsd
 
 //1 - Личное / 2 - Подчинённых / 3 - Все / 4 - Управление / 5 - Мне
 
